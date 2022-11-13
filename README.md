@@ -38,7 +38,7 @@ The following commands can be used in the chat box to control the music bot:
 ## Instructions to set up the project:
 * Install [Google Chrome](https://www.google.com/intl/en_in/chrome/). Ignore if already installed.
 
-* Download [Chromium Chromedriver](https://chromedriver.chromium.org/downloads) corresponding to the chrome version that you have installed in your system. You can check your chrome version by visiting this [link](chrome://settings/help) from a chrome window.
+* Download [Chromium Chromedriver](https://chromedriver.chromium.org/downloads) corresponding to the chrome version that you have installed in your system. You can check your chrome version by visiting `chrome://settings/help` from a chrome window.
 <p align="center">
 <img src="images/chromeVersion.png" alt="Check chrome version" style="width:500px;"/>
 </p>
